@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">saludobienhecho</string>
+    <string name="ma_et_hint_dame_tu_nombre">Dame tu nombre</string>
+    <string name="ma_b_ingresar">Ingresar</string>
+    <string name="ma_no_estas_registrado">Hola %1$s Bienvenido/a!</string>
+    <string name="ma_iv_content_description">Se muestra el logo de UTADELICIAS.</string>
+</resources>
